@@ -1,4 +1,4 @@
-#!/usr/bin/python#!/usr/bin/python
+#!/usr/bin/python
 # coding=utf-8
 #
 # Author: Kristian Botnen <kristian.botnen@uib.no>
